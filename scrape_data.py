@@ -132,7 +132,7 @@ for link in links:
 						points_total(i[3],1)
 				
 
-				season_results.append(info)
+					season_results.append(info)
 				
 			a1_sorted_keys = sorted(team_points.items(), key=operator.itemgetter(1),reverse=True)
 			pos=1
